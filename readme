@@ -1,0 +1,25 @@
+Implemented the following methods for model.Student.java:
+
+
+public void enrollToCourse( Course course )* Done
+    {
+        //TODO implement this method
+    }
+
+    public boolean isCourseApproved( String courseCode )
+    {
+        //TODO implement this method
+        return false;
+    }
+
+    public boolean isAttendingCourse( String courseCode )
+    {
+        //TODO implement this method
+        return false;
+    }
+    @Override
+    public List<Course> getApprovedCourses()
+    {
+        //TODO implement this method
+        return null;
+    }
